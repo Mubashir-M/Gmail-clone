@@ -27,3 +27,6 @@
   z-index: 999;
 }
 
+.emailList__list {
+  padding-bottom: 15%;
+}
